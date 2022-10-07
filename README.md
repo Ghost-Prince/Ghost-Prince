@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeeb</h1>
 <h3 align="center">A passionate programmer from India with expertise in C++, Python, Data Analytics, Data Structure and Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
+<img align="right" alt="Coding" width="400" src="https://1drv.ms/u/s!As3c8Cv8OPG_tVeVlr9MNLwZW4BD?e=JbODqD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-prince&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-prince" /> </p>
 
